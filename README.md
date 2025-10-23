@@ -1,4 +1,4 @@
-# Heart Disease Prediction System
+# Heart Disease Prediction Project
 
 A machine learning-based web application for predicting heart disease risk using clinical parameters.
 
